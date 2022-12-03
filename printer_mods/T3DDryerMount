@@ -1,0 +1,13 @@
+Mount for Thordsen3D Inline Filament Dryer
+
+Prints flat on back in loaded orientation. Installs similar to factory Voron 2.4 PTFE guide. 
+Modeled to be centered with Voron 2.4 PTFE guide's hole to avoid strain in filament path. 
+Part is 92mm long, keep in mind when installing, you may have to relocate your midspan panel retainers depending on your machine's size. 
+Designed to be mounted on left side with spool holder on front left corner. Should work with other spool holder locations as well. 
+Dryer's hot end sits into cradling arms utilizing the V6 heatsink's mounting collar. 
+
+Settings: 
+  I stuck with recommended Voron print settings and the part is plenty strong
+  42% Infill
+  Minimum 3 Perimeters
+  3 bottom layers, 5 top layers
